@@ -1,4 +1,4 @@
-# Assignment: Vue.js – Advanced To-Do List with Deadline & Timer
+# Assignment: Vue.js – To-Do List with Deadline & Timer
 
 ## Identitas
 - **Nama** : Muhammad Zidan Azzaki
