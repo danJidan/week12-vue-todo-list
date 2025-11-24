@@ -362,5 +362,4 @@ onUnmounted(() => {
 5. **Task Completed dan Activity Log** - Tugas dan Riwayat yang sudah diselesaikan
 ![alt text](image-3.png)
 
----#   w e e k 1 2 - v u e - t o d o - l i s t  
- 
+---
